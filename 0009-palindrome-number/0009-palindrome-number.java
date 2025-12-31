@@ -1,6 +1,7 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        long tempX = x, count=0, backwardCount=x, compare=0, compareCount=0;
+        long tempX = x;
+        int count=0, backwardCount=x, compare=0, compareCount=0;
         long ten = 1; 
         if(x<0){
             return false;

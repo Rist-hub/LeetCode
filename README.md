@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rist-hub/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rist-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Rist-hub/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rist-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rist-hub/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rist-hub/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rist-hub/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

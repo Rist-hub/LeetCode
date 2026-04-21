@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rist-hub/LeetCode/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rist-hub/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
